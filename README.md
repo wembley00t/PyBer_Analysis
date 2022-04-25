@@ -25,13 +25,23 @@ The multiple-line graph view of the total weekly fares by each city type:
 
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/100876517/165005318-27d79adb-b001-4b95-807f-ddfb45fcfa52.png)
 
+This data shows that the majority of drivers and total rides occurs in the urban city type.  Total rides in the urban city type is almost 70% 
+compared to 25% for suburban and 5% for rural.  Total fares are the lowest in the rural area however the average fare per ride and
+average fare per driver is the highest in the rural area.  
 
 
-## School District Analysis Summary
 
-Four changes noted with the updated school district analysis:
+## PyBer_Analysis Summary
 
-* The number of students decreased from 39,170 to 38,709
-* Thomas High School reflected a higher overall passing percentage for math, reading and overall passing.
+Three business recommendations to address disparities among the city types:
 
+* The average fare per driver is much higher for rural vs urban drivers.  More research should be completed to review
+  total time and distances of the rides for rural vs. urban to determine if there is an opportunity to raise fares
+  in the urban city type.
+* Further analysis should be completed to determine if there is missed opportunities or more demand than being met
+  in the rural areas.  If so, develop incentives to attract more drivers to meet demand.
+* The suburban total fares start to trend upward towards the end of April while the urban and rural areas decline
+  or flatten out.  Expand the analysis to determine if there is seasonality in volumes and review annual ride 
+  fares and driver fares by cityt type.
+  
 
