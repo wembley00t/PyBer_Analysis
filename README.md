@@ -42,6 +42,6 @@ Three business recommendations to address disparities among the city types:
   in the rural areas.  If so, develop incentives to attract more drivers to meet demand.
 * The suburban total fares start to trend upward towards the end of April while the urban and rural areas decline
   or flatten out.  Expand the analysis to determine if there is seasonality in volumes and review annual ride 
-  fares and driver fares by cityt type.
+  fares and driver fares by city type.
   
 
